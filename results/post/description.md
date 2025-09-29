@@ -8,3 +8,7 @@
 - **Advanced CAD & Major Diabetes**: Same definitions as used by N2C2 annotators
 
 - **Other Criteria**: No changes applied
+
+#Important note
+
+All metrics are for 86 patients (test set size). TN are not explictly stated. 
