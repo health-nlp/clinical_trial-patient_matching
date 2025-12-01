@@ -1,8 +1,5 @@
 # Trial-to-Patient Matching
 
-
-Reference repo from the publication: Investigating RAG-based Approaches in Clinical Trial and Patient Matching (ML4H, 2025)
-
 ![Pipeline overview](scheme.png)
 
 Minimal instructions to reproduce the results linked from the paper.
@@ -65,7 +62,23 @@ Aggregated per-criterion metrics (as reported in the paper) are stored here:
 If you use this code or results, please cite:
 
 
+```bibtex
+@inproceedings{tramontini2025investigating,
+  title={Investigating RAG-based Approaches in Clinical Trial and Patient Matching},
+  author={Tramontini, Daniel Leon and Ghosh, Shrestha and Eickhoff, Carsten},
+  year={2025},
+  booktitle={Machine Learning for Health (ML4H)}
+}
 ```
 
 ## License
-MIT. Research use only; not a medical device.
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+Research use only; not a medical device.
